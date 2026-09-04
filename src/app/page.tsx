@@ -49,7 +49,8 @@ const mountains = [
     elevation: "森林遊樂區",
     tag: "竹林秘境",
     desc: "台大實驗林孟宗竹林隨風搖曳，空中走廊穿梭在紅檜、柳杉林冠之間。清晨薄霧與灑落的陽光，是最療癒的森林浴場域。",
-    image: null,
+    image: "/images/xitou.jpg",
+    credit: "Joe Lewis · CC BY-SA 2.0, via Wikimedia Commons",
   },
 ];
 
